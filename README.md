@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dKVfChTh6h1fQEVi7l2DahIZFOLwEyiDIg&usqp=CAU)
+![MasterHead](https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966)
 
 <h1 align="center">Hi 👋, I'm Rajat Mujawar</h1>
 <h3 align="center">Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
