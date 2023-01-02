@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Mujawar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatmujawar123&label=Profile%20views&color=0e75b6&style=flat" alt="rajatmujawar123" /> </p>
 
