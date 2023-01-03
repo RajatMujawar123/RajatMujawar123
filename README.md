@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajat-mujawar-70a02822b" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="rajat-mujawar-70a02822b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajat-mujawar-70a02822b" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="rajat-mujawar-70a02822b" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
