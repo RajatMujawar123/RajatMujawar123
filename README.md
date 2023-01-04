@@ -1,7 +1,15 @@
-![MasterHead](https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966)
+<!-- ![MasterHead](https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966) -->
+
+<img src= "https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966" align="center" width="100%"/>
+
+
 
 <h1 align="center">Hi 👋, I'm Rajat Mujawar</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50">
 <h3 align="center">Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatmujawar123&label=Profile%20views&color=0e75b6&style=flat" alt="rajatmujawar123" /> </p>
 
@@ -31,3 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatmujawar123&show_icons=true&locale=en" alt="rajatmujawar123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatmujawar123&" alt="rajatmujawar123" /></p>
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajatMujawar123&themeborder=false&include_all_commits=true&count_private=true&layout=compact
+)
+
