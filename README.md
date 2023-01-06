@@ -40,6 +40,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatmujawar123&" alt="rajatmujawar123" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajatMujawar123&themeborder=false&include_all_commits=true&count_private=true&layout=compact" alt="rajatmujawar123" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RajatMujawar123&themeborder=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
