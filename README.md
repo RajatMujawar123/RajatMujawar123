@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,React,Redux,Node.js,JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://rajatmujawar123.github.io/](https://rajatmujawar123.github.io/RajatMujawar.github.io/)
+- 👨‍💻 All of my projects are available at(https://rajatmujawar123.github.io/)
 
 - 💬 Ask me about **React, JavaScript**
 
